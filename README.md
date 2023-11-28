@@ -1,2 +1,2 @@
-# SquattyBird
-AR Game where you squat to dodge incoming obstacles
+# Eggsplorer
+Short App where you can discover egg recipes by combining various household ingredients.
